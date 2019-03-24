@@ -1,0 +1,47 @@
+.card-img-top{
+    width: 310px;
+    height: 180px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.location{
+
+}
+.booknow{
+    margin-left: 10px;
+}
+.container{
+    
+    
+}
+.card{
+    width: 320px;
+    height: 400px;
+    margin-top: 20px;
+    background-color: #90CAF9;
+}
+.card-title{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.card-subtitle{
+    margin-left: 15px;
+}
+.card-text{
+    margin-left: 15px;
+}
+.location{
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.price{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.rating{
+    margin-left: 25px;
+}
+.booknow{
+    margin-left: 60px;
+}
